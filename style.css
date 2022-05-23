@@ -204,7 +204,7 @@ main {
     background-repeat: no-repeat;
 }
 .currency-table--date {
-    width: 200px;
+    width: 190px;
     height: 30px;
     margin: 0 auto;
     margin-top: 15px;
@@ -218,5 +218,12 @@ main {
     line-height: 1.5rem;
     color: var(--warm-black);
 }
-
+.main-product-detail  {
+    position: relative;
+    width: 100%;
+    min-width: 320px;
+    height: auto;
+    padding: 20px 10px;
+    background-color: var(--warm-black);
+}
 
